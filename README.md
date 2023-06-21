@@ -17,8 +17,8 @@ O projeto consiste em um aplicativo front-end de receitas e é possível realiza
 
 - React Context API;
 - React Hooks;
-- Api comsumida para os dados das comidas: [TheMealDB](https://www.themealdb.com/);
-- Api comsumida para os dados das bebidas: [CockTailDB](https://www.thecocktaildb.com/);
+- Api consumida para os dados das comidas: [TheMealDB](https://www.themealdb.com/);
+- Api consumida para os dados das bebidas: [CockTailDB](https://www.thecocktaildb.com/);
 - Metodologias Ágeis;
 - Figma para o desenvolvimento da interface.
 - Toda a aplicação foi desenvolvida de acordo com os princípios do UX Design.
