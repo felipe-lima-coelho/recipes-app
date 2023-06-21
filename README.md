@@ -1,6 +1,6 @@
 # Boas-vindas ao projeto Recipes APP!
 
-**Deploy:** https://recipes-group-3.surge.sh
+**Deploy:** https://recipes-group-3.surge.sh{target="_blank"}
 
 O projeto consiste em um aplicativo front-end de receitas e é possível realizar as seguintes ações:
 
@@ -33,23 +33,23 @@ O projeto consiste em um aplicativo front-end de receitas e é possível realiza
 
   2. Instale as dependências
 
-  - `npm install`.
+    - `npm install`.
 
   3. Inicialize a aplicação
   
-  - `npm start`.
+    - `npm start`.
 
   4. Redimensione a tela
 
-  - O proeto se baseia em uma aplicação mobile. Dito isso, é recomendável redimencionar a tela do navegador para uma resolução de tela de 360 x 640 (360 pixels de largura por 640 pixels de altura).
+    - O proeto se baseia em uma aplicação mobile. Dito isso, é recomendável redimencionar a tela do navegador para uma resolução de tela de 360 x 640 (360 pixels de largura por 640 pixels de altura).
 
 # Squad responsável pelo desenvolvimento
 
-  - [Felipe Lima Coelho](https://github.com/felipe-lima-coelho)
-  - [Bruno Ferreira](https://github.com/brunoferreira89)
-  - [Diego Cordeiro](https://github.com/Diego-Cordeiro0406)
-  - [Luiz Fernando Heilig](https://github.com/luizheilig)
-  - [Louis Phillipi](https://github.com/Louisph08)
+  - [Felipe Lima Coelho](https://github.com/felipe-lima-coelho){target="_blank"}
+  - [Bruno Ferreira](https://github.com/brunoferreira89){target="_blank"}
+  - [Diego Cordeiro](https://github.com/Diego-Cordeiro0406){target="_blank"}
+  - [Luiz Fernando Heilig](https://github.com/luizheilig){target="_blank"}
+  - [Louis Phillipi](https://github.com/Louisph08){target="_blank"}
 
 # Licenciamento
 
